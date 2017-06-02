@@ -1,4 +1,4 @@
-### JavaScript Hoisting
+# JavaScript Hoisting
 
 Consider the following code:
 
