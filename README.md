@@ -54,7 +54,7 @@ Now that we understand the terminology, Consider the following code
   // lines of code 
   var b = 'b'; 
   // more lines of code 
-  var c= 'c'; // antipattern 
+  var c= 'c';
   // final lines of scripting 
 })();
 ```
